@@ -1,8 +1,6 @@
 var Twitter = require('twitter');
 require('dotenv/config');
 
-console.log('Teste ', process.env.TWITTER_CONSUMER_KEY);
-
 var client = new Twitter({
   consumer_key: process.env.TWITTER_CONSUMER_KEY,
   consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
