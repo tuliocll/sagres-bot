@@ -1,13 +1,14 @@
-var http = require('http');
+var api = require('./config/axios');
 var client = require('./config/twitter');
 
-http
-  .get('http://sagres.uesb.br', function(res) {
+api
+  .get('/')
+  .then(() => {
     postarTwitter(
       'O #sagres da #UESB esta online ? R: SIM. #sagresbot #sagresuesbbot'
     );
   })
-  .on('error', function(e) {
+  .catch(() => {
     postarTwitter(
       'O #sagres da #UESB esta online ? R: NÃO. #sagresbot #sagresuesbbot'
     );

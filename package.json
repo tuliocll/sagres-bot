@@ -9,6 +9,7 @@
   "author": "Tulio Calil",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.0",
     "dotenv": "^8.1.0",
     "twitter": "^1.7.1"
   },
