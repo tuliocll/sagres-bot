@@ -9,6 +9,7 @@ api
     );
   })
   .catch(() => {
+    console.log('erro');
     postarTwitter(
       'O #sagres da #UESB esta online ? R: NÃO. #sagresbot #sagresuesbbot'
     );
