@@ -1,6 +1,10 @@
 # Sagres Bot - Twitter
 
-<img src="https://github.com/tuliocll/sagres-bot/blob/master/logo.png" alt="Sagres bot preview" width="320px"></img>
+<p align="center">
+
+<img src="https://github.com/tuliocll/sagres-bot/blob/master/logo.png" alt="Sagres bot preview" width="320px">
+</p>  
+
 [![Followers](https://img.shields.io/github/followers/tuliocll?style=social)](https://github.com/tuliocll)
 [![Stars](https://img.shields.io/github/stars/tuliocll/sagres-bot?style=social)](#)
 [![Follow](https://img.shields.io/twitter/follow/BotSagres?style=social)](https://twitter.com/BotSagres)
