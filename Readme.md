@@ -3,12 +3,17 @@
 <p align="center">
 
 <img src="https://github.com/tuliocll/sagres-bot/blob/master/logo.png" alt="Sagres bot preview" width="320px">
-</p>  
 
+</p>
+
+<div align="center">
+  
 [![Followers](https://img.shields.io/github/followers/tuliocll?style=social)](https://github.com/tuliocll)
 [![Stars](https://img.shields.io/github/stars/tuliocll/sagres-bot?style=social)](#)
 [![Follow](https://img.shields.io/twitter/follow/BotSagres?style=social)](https://twitter.com/BotSagres)
 [![Node](https://img.shields.io/node/v/lts)](https://nodejs.org)
+
+</div>  
 
 **Instalando**
 Clonar o repositorio:
@@ -32,4 +37,4 @@ E por fim, é só rodar
 node src/index.js
 ```
 
-###End
+### End
